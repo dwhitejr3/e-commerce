@@ -28,5 +28,12 @@
     In order to contribute please use the github repo link
 
 ## Test
+    Run a `npm install` in the terminal to download all of the neccessary packages.
+    Then run `npm run seed` in order to seed the data
+    Then run `node server.js` in the terminal to run the server.
+    In order to test the application you must use insomnia since there is not a frontend
 
-    In order to test the product you must use insomnia since there is not frontend
+## Link
+Here is a link to a demo video
+
+https://drive.google.com/file/d/1RIv8yNMzas8HLBs83zoWWomws8pXXjHF/view?usp=sharing
