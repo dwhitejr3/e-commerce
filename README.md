@@ -29,7 +29,7 @@
 
 ## Test
     Run a `npm install` in the terminal to download all of the neccessary packages.
-    Then run `npm run seed` in order to seed the data
+    Then run `npm run seed` in order to seed the data.
     Then run `node server.js` in the terminal to run the server.
     In order to test the application you must use insomnia since there is not a frontend
 
